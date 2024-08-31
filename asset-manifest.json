@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bta-portfolio/static/css/main.e7c3b001.css",
-    "main.js": "/bta-portfolio/static/js/main.2fcdd230.js",
+    "main.css": "/bta-portfolio/static/css/main.4e0463bb.css",
+    "main.js": "/bta-portfolio/static/js/main.b39415f4.js",
     "static/js/453.197c687d.chunk.js": "/bta-portfolio/static/js/453.197c687d.chunk.js",
     "static/media/pdf.worker.min.mjs": "/bta-portfolio/static/media/pdf.worker.min.251d69a696d4b789725e.mjs",
     "index.html": "/bta-portfolio/index.html",
-    "main.e7c3b001.css.map": "/bta-portfolio/static/css/main.e7c3b001.css.map",
-    "main.2fcdd230.js.map": "/bta-portfolio/static/js/main.2fcdd230.js.map",
+    "main.4e0463bb.css.map": "/bta-portfolio/static/css/main.4e0463bb.css.map",
+    "main.b39415f4.js.map": "/bta-portfolio/static/js/main.b39415f4.js.map",
     "453.197c687d.chunk.js.map": "/bta-portfolio/static/js/453.197c687d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7c3b001.css",
-    "static/js/main.2fcdd230.js"
+    "static/css/main.4e0463bb.css",
+    "static/js/main.b39415f4.js"
   ]
 }
